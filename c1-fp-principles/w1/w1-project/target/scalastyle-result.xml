@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+ <file name="/home/yuri/ydisk/prct/scala/scala-epfl-coursera/c1-fp-principles/w1/Example/src/main/scala/example/Example.scala">
+  <error line="1" source="org.scalastyle.file.HeaderMatchesChecker" severity="warning" message="Header does not match expected text"/>
+  <error column="2" line="4" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
+ </file>
+</checkstyle>
